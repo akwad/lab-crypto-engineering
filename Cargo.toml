@@ -3,7 +3,7 @@ name = "sse-rust-crypto"
 version = "0.1.0"
 edition = "2021"
 # Replace your group's names here
-authors = ["Partner 1", "Partner 2"]
+authors = ["Hussein Akinwande", "Asia Gibson"]
 
 # You may not change this list of dependencies.
 [dependencies]
